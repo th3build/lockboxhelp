@@ -35,4 +35,3 @@ Apart from `package.json`, the following files are included:
 ## Copyright and license
 
 Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma-start/blob/master/LICENSE).
-# lockbox_games
